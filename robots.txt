@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rightfur.github.io/sitemap
+Sitemap: https://rightfur.github.io/app/sitemap
+Sitemap: https://rightfur.github.io/assets/sitemap
+Sitemap: https://rightfur.github.io/css/sitemap
+Sitemap: https://rightfur.github.io/includes/sitemap
+Sitemap: https://rightfur.github.io/item/sitemap
+Sitemap: https://rightfur.github.io/src/sitemap
